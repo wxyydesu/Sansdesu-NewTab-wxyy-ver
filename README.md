@@ -11,6 +11,6 @@ NEWTAB EXTENSIONs BY SANSDESU | WXYY VER
 <div>**The photo above may change over time**</div>
 <img src="./png/mymod.png" width="337" align=left />
 
-<div style="align=right">
-> New button that will open a new menu!
+<div style="text-align=right">
+New button that will open a new menu! <
 </div>
