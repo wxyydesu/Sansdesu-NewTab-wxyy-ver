@@ -1,10 +1,8 @@
 # Sansdesu-NewTab-wxyy-ver
 
 
-<div align=left>
+<div align=center>
 
-> Live In **West Java, Indonesia**
-
-> Studying **Fullstack Developer**
+> NEWTAB EXTENSIONs BY SANSDESU | WXYY VER
 
 </div>
