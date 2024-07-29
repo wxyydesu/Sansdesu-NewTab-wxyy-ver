@@ -7,9 +7,10 @@ NEWTAB EXTENSIONs BY SANSDESU | WXYY VER
 
 > I don't steal or claim extensions, all of this is the result of my friend SANSDESU's hard work, and I only added a few features that I think are useful
 </div>
-</br></br>
+</br></br></br></br>
 <div>**The photo above may change over time**</div>
 <img src="./png/mymod.png" width="337" align=left />
 
-
+<div style="align=right">
 > New button that will open a new menu!
+</div>
