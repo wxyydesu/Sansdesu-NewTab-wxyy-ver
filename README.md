@@ -1,7 +1,7 @@
 # Sansdesu-NewTab-wxyy-ver
 
 
-<div>
+<div align=left>
 
 > Live In **West Java, Indonesia**
 
